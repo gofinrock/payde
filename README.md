@@ -18,8 +18,8 @@ The word "payde" is not a standard English word. However, if it is meant to be a
 ## Unipay QR
 The UniPay QR Code is a revolutionary, universal, and inclusive payment solution. Designed for simplicity and versatility, it enables any business to accept payments in any cryptocurrency from anyone, regardless of the asset or blockchain being used by the customer.
 
-![payde-logo](/images/unipay-qr.png)
+![payde-logo](/images/unipay-qr.png))
 
 ## Demo Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C7dwVw5mxS4?si=qerPiWtw6kQiDo0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![demovideo](/images/payde-demo-screenshot.png)](https://youtu.be/C7dwVw5mxS4 "Little red riding hood - Click to Watch!")
 
