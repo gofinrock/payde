@@ -18,6 +18,22 @@ The word "payde" is not a standard English word. However, if it is meant to be a
 ## Architecture
 ![payde-logo](/images/arch-diagram.svg)
 
+## Flow Diagram
+![payde-logo](/images/flow-diagram.svg)
+
+## Requirements
+1. MySQL Database
+2. SSL Certificates
+3. Blockchain Full Nodes
+
+## Backend Framework
+1. Microsoft .Net 9 (for API & Admin)
+2. NodeJS (for KMS)
+
+## Frontend Framework
+1. Angular 19 (for Web Wallet)
+2. Flutter & Dart (for Mobile Apps)
+
 ## Unipay QR
 The UniPay QR Code is a revolutionary, universal, and inclusive payment solution. Designed for simplicity and versatility, it enables any business to accept payments in any cryptocurrency from anyone, regardless of the asset or blockchain being used by the customer.
 
