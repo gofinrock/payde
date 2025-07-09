@@ -134,10 +134,6 @@ Response:
 }
 ```
 
-# Example QR Code
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/fb90aa53-51b2-41cf-9244-b191eb4f370b/92ce8ec2-b3a4-40c9-914f-f3869849766b/image.png)
-
 # Webhook Signature Validation
 
 Setting up a Webhook will enable you to get notified of inward payments as they arrive and an invoice is marked as paid. 
