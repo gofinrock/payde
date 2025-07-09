@@ -15,6 +15,9 @@ The word "payde" is not a standard English word. However, if it is meant to be a
 - We also provide no-code widgets for online merchants who do not have the technical capability for API integrations. 
 - We safeguard against crypto price volatility by guaranteeing merchants a fiat price
 
+## Architecture
+![payde-logo](/images/arch-diagram.svg)
+
 ## Unipay QR
 The UniPay QR Code is a revolutionary, universal, and inclusive payment solution. Designed for simplicity and versatility, it enables any business to accept payments in any cryptocurrency from anyone, regardless of the asset or blockchain being used by the customer.
 
