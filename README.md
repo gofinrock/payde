@@ -19,7 +19,7 @@ The word "payde" is not a standard English word. However, if it is meant to be a
 ![payde-logo](/images/arch-diagram.svg)
 
 ## Flow Diagram
-![payde-logo](/images/flow-diagram.png)
+![payde-logo](/images/flow.png)
 
 ## Requirements
 1. MySQL Database
