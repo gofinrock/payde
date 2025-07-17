@@ -45,15 +45,15 @@ This air-gapped QR signing model is perfect for institutions looking to combine 
 
 ## 🛡️ Why Finrock’s Cold Wallet?
 
-✅ Zero online exposure
+✅ Zero online exposure 
 
 ✅ Multisig enforcement across users or devices
 
-✅ HSM-grade key storage and isolation
+✅ HSM-grade key storage and isolation 
 
-✅ Fully auditable and compliant with enterprise policies
+✅ Fully auditable and compliant with enterprise policies 
 
-✅ Seamless integration with your hot wallets or exchanges
+✅ Seamless integration with your hot wallets or exchanges 
 
 ✅ Backed by Finrock’s non-custodial infrastructure
 
