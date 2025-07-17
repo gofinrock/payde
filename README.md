@@ -40,5 +40,5 @@ The UniPay QR Code is a revolutionary, universal, and inclusive payment solution
 ![payde-logo](/images/unipay-qr.png))
 
 ## Demo Video
-[![demovideo](/images/payde-demo-screenshot.png)](https://youtu.be/C7dwVw5mxS4 "Little red riding hood - Click to Watch!")
+[![demovideo](/images/payde-demo-screenshot.png)](https://youtu.be/C7dwVw5mxS4 "Payde POS Demo Video - Click to Watch!")
 
